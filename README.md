@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align=center>📬 Mail: sarikovk38@gmail.com</div>
+<div align=center>📬 <b>Mail:</b> sarikovk38@gmail.com</div>
 <div id="discord", align=center>
   <img src="https://res.cloudinary.com/nifty-gateway/image/upload/v1570307713/nifty-builder-images/qgs5sqsvqfd88ttkhqsl.png" width="20">
-  &#160;Discord: muse_x42
+  &#160;<b>Discord:</b> muse_x42
 </div>
 
 ---
