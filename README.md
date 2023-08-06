@@ -1,7 +1,10 @@
-### Hi there, I'm Kirill 👋
+<h1 align=center> Hi there, I'm Kirill 👋</h1>
+<div align=center>
+  <img src="https://www.rslfunding.com/wp-content/uploads/2018/09/cashforclass.png" width="200"><br>
+  <br>
+</div>
 
-### 📝 My Contacs 
-<div id="badges">
+<div id="badges", align=center>
   <a href="https://vk.com/sharikovkirill">
     <img src="https://img.shields.io/badge/VK-046EED?logo=vk" alt="VK Badge"/>
   </a>
@@ -12,8 +15,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-📬 Mail: sarikovk38@gmail.com<br>
-<div id="discord">
+<div align=center>📬 Mail: sarikovk38@gmail.com</div>
+<div id="discord", align=center>
   <img src="https://res.cloudinary.com/nifty-gateway/image/upload/v1570307713/nifty-builder-images/qgs5sqsvqfd88ttkhqsl.png" width="20">
   &#160;Discord: muse_x42
 </div>
@@ -42,7 +45,7 @@ I am a Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="20"
 - **Localization and CSV tables**: I2 Localization, Yandex Games Localization
 - Newtonsoft JSON
 - Unity Custom Editors
-- **Optimization:** Unity Profiler, URP and Materials optimization,
+- **Optimization:** Unity Profiler, URP and Materials optimization, Frame Debugger
 - AR Core and Unity XR
 
 ### 🎨 Secondary Skills :
