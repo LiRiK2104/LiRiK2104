@@ -62,7 +62,7 @@ I am a Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="20"
 
 ### 💼 My Portfolio :
 - Jobs:
-  - WellFlow: <a href="https://play.google.com/store/search?q=felon+play&c=apps&hl=ru&gl=US">Felon Play</a> (current job)
+  - WellFlow: <a href="https://play.google.com/store/apps/details?id=top.kidsgames.felonplayground&hl=ru&gl=US">Felon Play</a> (current job)
   - Lightmap: <a href="https://play.google.com/store/apps/details?id=com.pixel.gun3d&hl=ru&gl=US">Pixel Gun 3D</a> (previous job)
 - My projects:
   - Navigator DSTU: <a href="https://github.com/LiRiK2104/Navigator_DSTU">source code</a>. This is my Graduate Work. This application developed for navigation inside the 1st building of the Don State Technical University.
