@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div id="badges">
+  <a href="https://vk.com/sharikovkirill">
+    <img src="https://img.shields.io/badge/VK-blue?logo=vk" alt="VK Badge"/>
+  </a>
+</div>
+
 <!--
 **LiRiK2104/LiRiK2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
