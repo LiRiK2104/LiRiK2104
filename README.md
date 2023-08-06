@@ -65,7 +65,7 @@ I am a Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="20"
   - WellFlow: <a href="https://play.google.com/store/search?q=felon+play&c=apps&hl=ru&gl=US">Felon Play</a> (current job)
   - Lightmap: <a href="https://play.google.com/store/apps/details?id=com.pixel.gun3d&hl=ru&gl=US">Pixel Gun 3D</a> (previous job)
 - My projects:
-  - Navigator DSTU: <a href="https://github.com/LiRiK2104/Navigator_DSTU">source code</a> - my Graduate work. This application developed for navigation inside the 1st building of the Don State Technical University.
+  - Navigator DSTU: <a href="https://github.com/LiRiK2104/Navigator_DSTU">source code</a>. This is my Graduate Work. This application developed for navigation inside the 1st building of the Don State Technical University.
   - Bomb Shift: <a href="https://github.com/LiRiK2104/BombShift">source code</a>
   - Spiral of Madness: <a href="https://drive.google.com/file/d/1UUdSQWxP8KNC2Tu11vMXFrlmCebJE7Q6/view?usp=drive_link">apk build</a>, <a href="https://youtu.be/l7OezEbsrGA">preview video</a>
   - Tomatoes Delivery: <a href="https://lirik2104.itch.io/tomatoes-delivery">web game</a>, <a href="https://github.com/LiRiK2104/Tomatoes-Delivery">source code</a>. This small game was developed for Ludum Dare 48
