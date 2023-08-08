@@ -25,13 +25,18 @@
 
 ### 👨‍💻 About Me :
 
-I am a Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="20"> from Russia.
+I am a **Unity Developer** <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="20"> from Russia.
 
 - 💻 I have **3 years** of experience working on games for **Android**, **PC** and **Web** platforms.
 - 🎓 I'm graduated from the **Don State Techincal University (DSTU)**, received **bachelor's degree with honours** in Information Technologies.
 - 🔭 I’m currently working on **<a href="https://play.google.com/store/search?q=felon+play&c=apps&hl=ru&gl=US">Felon Play</a>**.
+- 💎 I try to approach my work responsibly. I prefer to spend more time, but to do it efficiently.
+- 🎮 In my free time I like to walk, travel and play all kinds of indie. A fan of quests, puzzles, exploration games and metroidvaniy (Favorites: Hollow Knight, Ori, Tunic, FEZ, Monument Valley).
 
 ---
+### 🌐 Languages:
+- Russian (primary)
+- English
 
 ### ⚙️ Primary Skills :
 
@@ -39,19 +44,20 @@ I am a Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="20"
 - C#
 - OOP, Design Patterns, SOLID
 - Git
-- Zenject (Extenject)
+- Work on **Agile** methodology (Scrum, Kanban)
+- **Zenject (Extenject)**, project architecture
 - Adding analytics events (Firebase) and ads (CAS, AdMob etc.) to the project
-- Сonnecting the Yandex Games Plugin, CrazyGames SDK
-- **Localization and CSV tables**: I2 Localization, Yandex Games Localization
-- Newtonsoft JSON
+- Сonnecting the **Yandex Games Plugin**, **CrazyGames SDK**
+- **Localization** and CSV tables: I2 Localization, Yandex Games Localization
+- **Newtonsoft JSON**, convert and parse data from json's
 - Unity Custom Editors
 - **Optimization:** Unity Profiler, URP and Materials optimization, Frame Debugger
 - AR Core and Unity XR
 
 ### 🎨 Secondary Skills :
 
-- Gamedesign
-- Layout of UGUI and NGUI
+- **Gamedesign** and documentation writing
+- Layout of **UGUI** and **NGUI**
 - **Animations:** Unity Animator, DOTween
 - **Effects:** Particle System, Shader Graph, Line and Trail renderers
 - **Vector Graphics:** CorelDRAW, Figma
