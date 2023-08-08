@@ -64,6 +64,8 @@ I am a **Unity Developer** <img src="https://i.redd.it/tu3gt6ysfxq71.png" width=
 - **3D Graphics:** Blender, 3Ds Max
 - **Raster Graphics:** Photoshop
 
+<img src="https://i.redd.it/tu3gt6ysfxq71.png" width="40"> <img src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest?cb=20180617092325&path-prefix=ru" width="40"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40"> <img src="https://raw.githubusercontent.com/modesttree/Zenject/master/Documentation/Images/ZenjectLogo.png" height="40"> <img src="https://user-images.githubusercontent.com/62210/29321053-746e3d0c-8196-11e7-99d2-94d6dc8afdfe.png" width="60"> <img src="https://developers.google.com/static/ar/images/logo.svg" width="40"> <img src="https://dotween.demigiant.com/api/dotween_logo.png" height="40">
+
 ---
 
 ### 💼 My Portfolio :
