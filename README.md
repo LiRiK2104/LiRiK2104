@@ -8,6 +8,9 @@
   <a href="https://vk.com/sharikovkirill">
     <img src="https://img.shields.io/badge/VK-046EED?logo=vk" alt="VK Badge"/>
   </a>
+  <a href="https://t.me/Muse_X42">
+    <img src="https://img.shields.io/badge/Telegram-02A7FF?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
   <a href="https://lirik2104.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-red?logo=itch.io&logoColor=white" alt="Itch.io Badge"/>
   </a>
