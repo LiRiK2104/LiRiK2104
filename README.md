@@ -53,6 +53,7 @@ I am a **Unity Developer** <img src="https://i.redd.it/tu3gt6ysfxq71.png" width=
 - Unity Custom Editors
 - **Optimization:** Unity Profiler, URP and Materials optimization, Frame Debugger
 - AR Core and Unity XR
+- Camera control via Cinemachine
 
 ### 🎨 Secondary Skills :
 
