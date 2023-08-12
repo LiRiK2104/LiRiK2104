@@ -45,7 +45,7 @@ I am a **Unity Developer** <img src="https://i.redd.it/tu3gt6ysfxq71.png" width=
 
 - Unity
 - C#
-- OOP, Design Patterns, SOLID
+- OOP, ECS, Design Patterns, SOLID
 - Git
 - Work on **Agile** methodology (Scrum, Kanban)
 - **Zenject (Extenject)**, project architecture
