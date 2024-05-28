@@ -39,7 +39,7 @@ I am a **Unity Developer** <img src="https://i.redd.it/tu3gt6ysfxq71.png" width=
 ---
 ### 🌐 Languages:
 - Russian (primary)
-- English
+- English (B1)
 
 ### ⚙️ Primary Skills :
 
