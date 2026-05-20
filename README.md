@@ -1,8 +1,8 @@
 ### 💼 My Portfolio :
 #### Jobs:
   - WellFlow LLC:
-    - <i>Felon Play</i>: <a href="https://www.crazygames.com/game/felon-play-ragdoll-sandbox-ffi">Crazy Games</a>, <a href="https://yandex.ru/games/?from=tableau_folder_yabro&win=591&utm_source=tableau_folder_yabro#app=223101">Yandex Games</a>, <a href="https://play.google.com/store/apps/details?id=top.kidsgames.felonplayground&hl=ru&gl=US">Google Play</a>
-    - <i>Flow Box</i>: <a href="https://yandex.ru/games/?from=tableau_folder_yabro&win=591&utm_source=tableau_folder_yabro#app=293274">Yandex Games</a>
+    - <i>Felon Play: Ragdoll Sandbox</i>: <a href="https://www.crazygames.com/game/felon-play-ragdoll-sandbox-ffi"><img src="https://www.crazygames.com/images/logo/logo-ziggy.svg" width="15px"/> Crazy Games</a>, <a href="https://yandex.ru/games/?from=tableau_folder_yabro&win=591&utm_source=tableau_folder_yabro#app=223101"><img src="https://www.euroki.org/assets/soc/1_3-effd58ded2527dc16d9f622f233de675aaf6d3854b307f3adec1f6f277e20cf3.png" width="15px"/> Yandex Games</a>, <a href="https://play.google.com/store/apps/details?id=top.kidsgames.felonplayground&hl=ru&gl=US"><img src="https://static.vecteezy.com/system/resources/previews/025/267/302/non_2x/google-toolbar-icon-search-symbol-map-gmail-calendar-drive-photo-google-play-meet-chat-and-my-ad-center-free-png.png" width="15px"/>Google Play</a>
+    - <i>Flow Box: Ragdoll Sandbox</i>: <a href="https://yandex.ru/games/?from=tableau_folder_yabro&win=591&utm_source=tableau_folder_yabro#app=293274"><img src="https://www.euroki.org/assets/soc/1_3-effd58ded2527dc16d9f622f233de675aaf6d3854b307f3adec1f6f277e20cf3.png" width="15px"/>Yandex Games</a>
   - Lightmap: <a href="https://pixelgun3d.com/">Pixel Gun 3D</a>, <a href="https://caterragame.com/">Caterra</a>
 #### My projects:
   - <i>Navigator DSTU</i>: <a href="https://github.com/LiRiK2104/Navigator_DSTU">source code</a>. This is my Graduate Work. This application developed for navigation inside the 1st building of the Don State Technical University.
