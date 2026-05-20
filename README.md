@@ -1,7 +1,7 @@
 ### 💼 My Portfolio :
 - Jobs:
   - WellFlow: <a href="https://yandex.ru/games/?from=tableau_folder_yabro&win=591&utm_source=tableau_folder_yabro#app=293274">Flow Box</a>, <a href="https://play.google.com/store/apps/details?id=top.kidsgames.felonplayground&hl=ru&gl=US">Felon Play (Android)</a>, <a href="https://yandex.ru/games/?from=tableau_folder_yabro&win=591&utm_source=tableau_folder_yabro#app=223101">Felon Play (Web)</a>
-  - Lightmap: <a href="https://pixelgun3d.com/">Pixel Gun 3D</a>, <a href="https://caterragame.com/">Caterra</a> (previous job)
+  - Lightmap: <a href="https://pixelgun3d.com/">Pixel Gun 3D</a>, <a href="https://caterragame.com/">Caterra</a>
 - My projects:
   - Navigator DSTU: <a href="https://github.com/LiRiK2104/Navigator_DSTU">source code</a>. This is my Graduate Work. This application developed for navigation inside the 1st building of the Don State Technical University.
   - Bomb Shift: <a href="https://github.com/LiRiK2104/BombShift">source code</a>
